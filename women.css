@@ -1,0 +1,51 @@
+.img1
+{
+	width: 100%;
+	height: 550px
+}
+center
+{
+	position: absolute;
+	bottom: 45%;
+	left:40%;
+	font-size: 70px;
+	color: #E6A9EC
+}
+
+.navbar-brand
+{
+    font-size: 32px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: cursive;
+
+}
+.navbar
+{
+	background-color: #333333;
+	height:50px;
+}
+li 
+{
+    font-size: 22px;
+    margin-left: 20px;
+    font-style: italic;
+    font-family: cursive
+}
+.alert
+{
+	text-align: center
+}
+figcaption
+{
+	visibility: hidden
+}
+h3
+{
+	font-style: italic;
+    font-family: cursive;
+}
+img
+{
+	position: relative;
+}
